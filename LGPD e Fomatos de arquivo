@@ -1,0 +1,23 @@
+A) A relação entre a LGPD e os Data Centers no Brasil
+-> Data Centers devem assegurar que as práticas de armazenamento e processamento de dados pessoais estejam em conformidade com a LGPD. 
+ Isso envolve a implementação de medidas de segurança adequadas para proteger os dados contra acessos não autorizados,
+vazamentos e outras formas de compromissos. Os data centers atuam também como controlador de dados, entidade que toma as decisões sobre o tratamento
+dos dados pessoais e como operador de dados, realizando o tratamento de dados pessoais em nome do controlador. Outra relação esta em 
+caso de vazamentos ou incidentes de segurança envolvendo dados pessoais, a LGPD exige que o controlador de dados informe a
+Autoridade Nacional de Proteção de Dados (ANPD) e os titulares dos dados afetados.
+
+
+B) Formatos de arquivos de dados proprietários abertos
+b.1 -> OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório)
+LaTe(uma linguagem de documentação)
+Json (uma linguagem de documentação)
+EPUB (formato de arquivo digital)
+DVI (uma linguagem para descrição de página)
+
+
+b.2 ->Implicações Relacionadas a dados públicos -> 
+Formatos de dados abertos não garantem por si só segurança e privacidade. É importante aplicar controles de acesso apropriados e 
+criptografia quando necessário. Dados públicos devem ser publicados de forma a garantir que informações sensíveis ou pessoais
+não sejam expostas indevidamente. Além disso, Formatos de dados abertos não garantem por si só segurança e privacidade. 
+É importante aplicar controles de acesso apropriados e criptografia quando necessário.
+Dados públicos devem ser publicados de forma a garantir que informações sensíveis ou pessoais não sejam expostas indevidamente.
