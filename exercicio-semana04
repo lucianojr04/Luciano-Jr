@@ -1,0 +1,107 @@
+
+Definição: Python é uma linguagem de programação de alto nível, interpretada, e de propósito geral, conhecida por sua simplicidade e legibilidade. Criada por Guido van Rossum e lançada em 1991, Python é amplamente 
+utilizada para desenvolvimento web, automação de scripts, análise de dados, inteligência artificial, 
+e muitas outras áreas.
+
+Python é uma linguagem de programação interpretada, de alto nível e multiuso. É conhecida por sua legibilidade e simplicidade, o que a torna uma ótima escolha para iniciantes.
+
+Algumas das vantagens do Python incluem:
+
+1. Sintaxe clara e concisa: Python tem uma sintaxe que se assemelha à linguagem natural, o que a torna fácil de aprender e entender.
+
+2. Amplas bibliotecas e frameworks: Python possui uma vasta coleção de bibliotecas e frameworks, como o Django e o NumPy, que facilitam o desenvolvimento de uma ampla gama de aplicações.
+
+3. Comunidade ativa: Python possui uma comunidade enorme e ativa, o que significa que há uma abundância de recursos, documentação e suporte disponíveis.
+
+No entanto, algumas desvantagens do Python incluem:
+
+1. Desempenho relativamente mais lento: Por ser uma linguagem interpretada, Python pode ser mais lento em comparação com linguagens compiladas, como C++.
+
+2. Menos adequado para desenvolvimento de aplicativos móveis: Embora seja possível desenvolver aplicativos móveis com Python, outras linguagens, como Java e JavaScript, são mais comumente usadas para esse fim.
+
+Casos de uso comuns para Python incluem:
+
+1. Desenvolvimento web: Frameworks como Django e Flask tornam o desenvolvimento web eficiente e rápido em Python.
+
+2. Análise de dados e ciência de dados: A vasta gama de bibliotecas Python, como o Pandas e o TensorFlow, tornam-no uma escolha popular para análise de dados e ciência de dados
+
+
+
+JAVA
+Definição: Java é uma linguagem de programação de propósito geral, orientada a objetos e baseada em classes. Ela foi desenvolvida pela Sun Microsystems (agora parte da Oracle) e lançada em 1995. Java é amplamente utilizada para desenvolver aplicações empresariais, móveis (particularmente Android), 
+web e sistemas distribuídos. Java é uma linguagem de programação amplamente usada e versátil, conhecida por sua portabilidade e segurança.
+
+Algumas vantagens do Java incluem:
+
+1. Portabilidade: O código Java pode ser executado em várias plataformas, desde servidores e desktops até dispositivos móveis.
+
+2. Grande comunidade e suporte: Java possui uma comunidade ativa e uma vasta quantidade de recursos disponíveis, incluindo bibliotecas, frameworks e documentação.
+
+3. Segurança: Java é projetado com recursos de segurança integrados que ajudam a proteger as aplicações contra ameaças.
+
+No entanto, algumas desvantagens do Java incluem:
+
+1. Curva de aprendizado íngreme: Java pode ser mais complexo para iniciantes em comparação com outras linguagens.
+
+2. Verbosidade: Java é conhecido por ser uma linguagem mais verbosa, o que significa que requer mais linhas de código para realizar determinadas tarefas em comparação com outras linguagens.
+
+Casos de uso comuns para Java incluem:
+
+1. Desenvolvimento de aplicativos empresariais: Java é amplamente utilizado no desenvolvimento de aplicativos corporativos, como sistemas de gerenciamento de bancos de dados e sistemas de comércio eletrônico.
+
+2. Desenvolvimento de aplicativos Android: Java é uma das linguagens oficiais suportadas para o desenvolvimento de aplicativos Android.
+
+
+C++
+
+Definição: C++ é uma linguagem de programação de propósito geral, derivada da linguagem C, com suporte adicional para programação orientada a objetos. Criada por Bjarne Stroustrup em 1983, é amplamente 
+usada em sistemas de software que requerem alto desempenho, como sistemas operacionais, jogos, motores gráficos, e softwares embarcados.
+
+C++ é uma linguagem de programação de propósito geral, conhecida por seu desempenho e controle de baixo nível.
+
+Algumas vantagens do C++ incluem:
+
+1. Desempenho: C++ é uma linguagem compilada que oferece controle de baixo nível sobre o hardware, tornando-a ideal para aplicações que exigem desempenho máximo.
+
+2. Flexibilidade: C++ permite o uso de programação procedural, orientada a objetos e genérica, oferecendo flexibilidade na abordagem do desenvolvimento.
+
+3. Amplamente utilizada em sistemas embarcados: Devido ao seu desempenho e controle de hardware, C++ é frequentemente usado em sistemas embarcados e desenvolvimento de jogos.
+
+No entanto, algumas desvantagens do C++ incluem:
+
+1. Curva de aprendizado íngreme: C++ é uma linguagem complexa e pode ser desafiador para iniciantes.
+
+2. Mais propensa a erros: Devido ao controle de baixo nível, C++ permite que os desenvolvedores cometam erros que podem ser difíceis de depurar.
+
+Casos de uso comuns para C++ incluem:
+
+1. Desenvolvimento de jogos: Muitos jogos de computador são desenvolvidos em C++ devido ao seu desempenho e controle de hardware.
+
+2. Desenvolvimento de sistemas operacionais: C++ é usado para desenvolver sistemas operacionais devido ao seu controle de baixo nível.
+
+FONTE DE PESQUISA ->  https://www.dio.me/articles/escolhendo-a-linguagem-de-programacao-certa-para-iniciantes-python-javascript-java-c-e-ruby
+
+
+
+-> CÓDIGOS <-
+
+
+Java
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+Python
+print("Hello, World!")
+C++
+cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+
