@@ -1,0 +1,69 @@
+Estrutura de Repetição
+
+# Exemplo de estrutura de repetição com o loop for
+for i in range(5):
+   print(f"Este é o número {i}")
+
+Comprovante
+Este é o número 0
+Este é o número 1
+Este é o número 2
+Este é o número 3
+Este é o número 4
+
+
+# Exemplo de estrutura de repetição com o loop while
+contador = 0
+while contador < 5:
+    print(f"Este é o número {contador}")
+    contador += 1
+
+Comprovante
+Este é o número 0
+Este é o número 1
+Este é o número 2
+Este é o número 3
+Este é o número 4
+
+
+Estrutura de Tomada de Decisão
+
+Exemplo com if-elif-else:
+
+# Exemplo de estrutura de tomada de decisão
+numero = int(input("Digite um número: "))
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+
+Comprovante de execução
+
+Entrada: 7
+Digite um número: 7
+O número é positivo.
+
+
+Entrada: -3
+Digite um número: -3
+O número é negativo.
+
+
+
+
+Digite um número: 0
+O número é zero.
+Digite um número: 0
+O número é zero.
+
+
+
+
+
+
+
+
+
